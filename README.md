@@ -38,6 +38,8 @@ Paiticle Filter:
 
 Texture Mapping:
 
+![image](https://user-images.githubusercontent.com/63135646/156727853-2047ddbd-f6bf-4324-ad2e-e314907ee07a.png)
+
 ![image](https://user-images.githubusercontent.com/63135646/156683328-ac343c4e-b997-43f5-a5e7-9bfc2d6b579d.png)
 
 
