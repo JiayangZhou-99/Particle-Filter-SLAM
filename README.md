@@ -26,7 +26,9 @@ Struture of the vehicle:
 ![image](https://user-images.githubusercontent.com/63135646/156683370-e3fbba4b-7632-41f1-97d3-f751dddf107f.png)
 ![image](https://user-images.githubusercontent.com/63135646/156683393-06caa1bb-a1f9-4a2f-8dff-fba297e08daf.png)
 
+# Technical Approach
 
+The techinical approach and methmetical formulation are all contained in the Particle_filter_SLAM.pdf
 
 # Result
 
